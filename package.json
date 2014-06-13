@@ -1,0 +1,15 @@
+{
+  "name": "ic2-reactor-sim",
+  "description": "Fast Minecraft IC2 nuclear reactor simulator",
+  "version": "0.0.1",
+  "homepage": "https://github.com/crispy1989/node-ic2-reactor-sim",
+  "author": "Chris Breneman <crispy@cluenet.org>",
+  "main": "index",
+  "dependencies": {
+    "bindings": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crispy1989/node-ic2-reactor-sim.git"
+  }
+}
